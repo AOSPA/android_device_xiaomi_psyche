@@ -329,10 +329,6 @@ PRODUCT_PACKAGES += \
     update_engine_sideload \
     update_verifier
 
-# Vendor Service Manager
-PRODUCT_PACKAGES += \
-    vndservicemanager
-
 # Vendor
 $(call inherit-product, vendor/xiaomi/psyche/psyche-vendor.mk)
 
