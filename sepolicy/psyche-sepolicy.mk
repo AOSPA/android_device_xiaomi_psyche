@@ -24,11 +24,14 @@ BOARD_SEPOLICY_DIRS += \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/display \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/dolby \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/fingerprint \
+    device/xiaomi/psyche/sepolicy/vendor/xiaomi/mfidoca \
+    device/xiaomi/psyche/sepolicy/vendor/xiaomi/mlipay \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/modem \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/power_supply \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/sensors \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/soter \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/thermald \
+    device/xiaomi/psyche/sepolicy/vendor/xiaomi/tidaservice \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/touch \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/touchfeature \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/usb \
