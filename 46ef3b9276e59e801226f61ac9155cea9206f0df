@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "85cbb146_73a63775",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000737
+      },
+      "writtenOn": "2024-02-03T13:43:44Z",
+      "side": 1,
+      "message": "bluetooth_qti_audio_policy_configuration is already in audio HAL",
+      "revId": "46ef3b9276e59e801226f61ac9155cea9206f0df",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
