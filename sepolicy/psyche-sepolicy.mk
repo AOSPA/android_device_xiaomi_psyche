@@ -30,6 +30,7 @@ BOARD_SEPOLICY_DIRS += \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/dolby \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/fingerprint \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/ir \
+    device/xiaomi/psyche/sepolicy/vendor/xiaomi/mlipay \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/modem \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/power_supply \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/sensors \

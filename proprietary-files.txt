@@ -849,6 +849,17 @@ vendor/lib64/libdlbdsservice.so|f3225b3ee8778f609effcb313ca64f32c7494f5e
 vendor/lib64/vendor.dolby.hardware.dms@2.0-impl.so|e90be71a671e64662742b6ee36d7060ed9974726
 vendor/lib64/vendor.dolby.hardware.dms@2.0.so|2020b5fd9abac65520224069bbe75d5e76d3f158
 
+# Mlipay - MIUI
+vendor/app/IFAAService/IFAAService.apk|e7db83456fdab6e6c23efab6dfeaa498abb527f0
+vendor/bin/mlipayd@1.1|9f41a62c62f584c4bf4a52115fc09678b163ad00
+vendor/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc|b5ab5bcd031fe4d9781b5911c0595eaeac8b80ea
+vendor/etc/vintf/manifest/manifest_vendor.xiaomi.hardware.mlipay.xml|27aaea2ab58ace6555a634dc60ea062736342eb4
+vendor/lib64/libmlipay.so|4ed4ee4879fcd71dda4a5425c71ec099231d122d
+vendor/lib64/libmlipay@1.1.so|c514d99addea1d94d24645b9560681b2a89b16fa
+vendor/lib64/vendor.xiaomi.hardware.mlipay@1.0.so|b4fc7cfb1d5520212bd19fbec760a091f44ec93c
+vendor/lib64/vendor.xiaomi.hardware.mlipay@1.1.so|eb460f5ff22150d98574b3c20920b1d9b45e6898
+vendor/lib64/vendor.xiaomi.hardware.mtdservice@1.0.so|55ca5404bbb1cb4bc0dc9a11b73f1df667e0a3ba
+
 # MMI
 vendor/bin/hw/vendor.qti.hardware.factory@1.0-service
 vendor/bin/mmid
