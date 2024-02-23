@@ -9,9 +9,6 @@ type batteryd_exec, exec_type, vendor_file_type, file_type;
 
 init_daemon_domain(batteryd)
 
-type batterysecret, domain;
-type batterysecret_exec, exec_type, vendor_file_type, file_type;
-
 init_daemon_domain(batterysecret)
 
 # {

@@ -12,10 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Public Sepolicy
-SYSTEM_EXT_PUBLIC_SEPOLICY_DIRS += \
-    device/xiaomi/psyche/sepolicy/public
-
 # QCOM Sepolicy
 BOARD_SEPOLICY_DIRS += \
     device/xiaomi/psyche/sepolicy/vendor/qcom
@@ -29,7 +25,6 @@ BOARD_SEPOLICY_DIRS += \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/display \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/dolby \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/fingerprint \
-    device/xiaomi/psyche/sepolicy/vendor/xiaomi/ir \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/modem \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/power_supply \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/sensors \
@@ -37,5 +32,4 @@ BOARD_SEPOLICY_DIRS += \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/touch \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/touchfeature \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/usb \
-    device/xiaomi/psyche/sepolicy/vendor/xiaomi/wireless \
     device/xiaomi/psyche/sepolicy/vendor/xiaomi/wlan
