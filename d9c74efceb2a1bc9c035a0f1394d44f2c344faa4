@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fa216200_9f9f9bfe",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000880
+      },
+      "writtenOn": "2024-02-23T03:40:56Z",
+      "side": 1,
+      "message": "https://github.com/hiper25-OpenSource/android_vendor_xiaomi_psyche/commit/7149b2c08d353b144e7d3fb9df0e41c04673734f",
+      "revId": "d9c74efceb2a1bc9c035a0f1394d44f2c344faa4",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
