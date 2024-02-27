@@ -248,10 +248,7 @@ PRODUCT_PACKAGES += \
     PsycheFrameworks \
     PsycheNfc \
     PsycheSettings \
-    PsycheSystemUI \
-    FrameworksResTarget \
-    WifiResTarget \
-    WifiMainline
+    PsycheSystemUI
 
 # Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
