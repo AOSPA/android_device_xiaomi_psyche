@@ -849,6 +849,37 @@ vendor/lib64/libdlbdsservice.so|f3225b3ee8778f609effcb313ca64f32c7494f5e
 vendor/lib64/vendor.dolby.hardware.dms@2.0-impl.so|e90be71a671e64662742b6ee36d7060ed9974726
 vendor/lib64/vendor.dolby.hardware.dms@2.0.so|2020b5fd9abac65520224069bbe75d5e76d3f158
 
+# Mlipay - MIUI
+vendor/bin/fidoca|be4c06ca185bdd80def0596b2517409556e7b1ea
+vendor/bin/mlipayd@1.1|9f41a62c62f584c4bf4a52115fc09678b163ad00
+vendor/bin/mtd@1.3|e1c40b668190ad2d5258f0c1dedb18d157b9b6cb
+vendor/bin/tidad@1.2|031ec500dade4f4094cdb342243de0ed78f647fa
+vendor/etc/init/vendor.xiaomi.hardware.mfidoca@1.0-service.rc|d9224ad626f1c5a43040207bbe94896f9198f0eb
+vendor/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc|b5ab5bcd031fe4d9781b5911c0595eaeac8b80ea
+vendor/etc/init/vendor.xiaomi.hardware.mtdservice@1.3-service.rc|84c831b078ceceef79105c522eff92ad00f7aabe
+vendor/etc/init/vendor.xiaomi.hardware.tidaservice@1.2-service.rc|c373dd61163cac0c2e52138777b33041f2571d89
+vendor/etc/vintf/manifest/manifest_vendor.xiaomi.hardware.mfidoca.xml|6db87ba511674ae5e1cdd1ce522a3495c271f1d4
+vendor/etc/vintf/manifest/manifest_vendor.xiaomi.hardware.mlipay.xml|27aaea2ab58ace6555a634dc60ea062736342eb4
+vendor/etc/vintf/manifest/manifest_vendor.xiaomi.hardware.mtdservice.xml|708ce224390a7f564be14a4c26736170395ae529
+vendor/etc/vintf/manifest/manifest_vendor.xiaomi.hardware.tidaservice.xml|42eef2b220fc300897d3c8c50dcc5bd90232ec6f
+vendor/lib64/libmfido.so|0f05f30662fd57d27469be5ffe3658cf9d218820
+vendor/lib64/libmlipay.so|4ed4ee4879fcd71dda4a5425c71ec099231d122d
+vendor/lib64/libmlipay@1.1.so|c514d99addea1d94d24645b9560681b2a89b16fa
+vendor/lib64/libmt.so|6af725a41acd5d6e8a27998aac552bd0314217c0
+vendor/lib64/libmt@1.3.so|67d0f109a3dd2c4c054ed0e14a1601a8253996c9
+vendor/lib64/libtida@1.2.so|2f89d6551710c199b5d85edc457e5163a64c1d67
+vendor/lib64/libwvkeybox.so|ebf6143969035d82efc007681e126a38420ac9a7
+vendor/lib64/vendor.xiaomi.hardware.mfidoca@1.0.so|d7bd964ef2ea8d59d778cd35f8a987a3710bb25a
+vendor/lib64/vendor.xiaomi.hardware.mlipay@1.0.so|b4fc7cfb1d5520212bd19fbec760a091f44ec93c
+vendor/lib64/vendor.xiaomi.hardware.mlipay@1.1.so|eb460f5ff22150d98574b3c20920b1d9b45e6898
+vendor/lib64/vendor.xiaomi.hardware.mtdservice@1.0.so|55ca5404bbb1cb4bc0dc9a11b73f1df667e0a3ba
+vendor/lib64/vendor.xiaomi.hardware.mtdservice@1.1.so|7f1f3d31b51f6e75fbf1b4f968b822a9cf64bd2b
+vendor/lib64/vendor.xiaomi.hardware.mtdservice@1.2.so|46609fc0b7876cac456b29f2ad374d4336d00714
+vendor/lib64/vendor.xiaomi.hardware.mtdservice@1.3.so|268ee7e90ba1460defb0a43f1911b01b63dcb5a8
+vendor/lib64/vendor.xiaomi.hardware.tidaservice@1.0.so|4a4e9a146033ef324dfeda8a5f3a00157ea48d3e
+vendor/lib64/vendor.xiaomi.hardware.tidaservice@1.1.so|808f08fdfc4a6e63eeb1f966a7f88e1161032dd1
+vendor/lib64/vendor.xiaomi.hardware.tidaservice@1.2.so|b1ec1740029f160e4ad6c9ff4ceb180194faae1b
+
 # MMI
 vendor/bin/hw/vendor.qti.hardware.factory@1.0-service
 vendor/bin/mmid
