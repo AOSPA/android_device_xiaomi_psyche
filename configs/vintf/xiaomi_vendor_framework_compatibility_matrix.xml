@@ -1,4 +1,4 @@
-<!-- Copyright (C) 2022 Paranoid Android
+<!-- Copyright (C) 2022-2024 Paranoid Android
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -49,15 +49,6 @@
         <version>1.0</version>
         <interface>
             <name>IXiaomiFingerprint</name>
-            <instance>default</instance>
-        </interface>
-    </hal>
-    <hal format="hidl">
-        <name>vendor.xiaomi.hardware.fx.tunnel</name>
-        <transport>hwbinder</transport>
-        <version>1.0</version>
-        <interface>
-            <name>IMiFxTunnel</name>
             <instance>default</instance>
         </interface>
     </hal>
