@@ -255,6 +255,13 @@ PRODUCT_PACKAGES += \
     PsycheSettings \
     PsycheSystemUI
 
+# CertifiedProps
+PRODUCT_PACKAGES += \
+    AOSPACertifiedProps
+
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/overlay/config-system_ext.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/overlay/config/config.xml
+
 # Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 
