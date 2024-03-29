@@ -239,6 +239,10 @@ PRODUCT_COPY_FILES += \
 # MIUI Camera
 $(call inherit-product-if-exists, vendor/xiaomi/psyche-miuicamera/products/miuicamera.mk)
 
+# Mlipay
+PRODUCT_PACKAGES += \
+    IFAAService
+
 # Namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH) \
