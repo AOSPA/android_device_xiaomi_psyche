@@ -1,0 +1,2 @@
+set_prop(vendor_init, vendor_fingerprint_prop)
+set_prop(vendor_init, vendor_payment_security_prop)
