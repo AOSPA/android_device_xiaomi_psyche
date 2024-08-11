@@ -159,7 +159,6 @@ PRODUCT_VENDOR_PROPERTIES += \
     ro.vendor.display.paneltype=2 \
     ro.vendor.display.sensortype=2 \
     vendor.display.qdcm.mode_combine=1 \
-    vendor.display.use_layer_ext=1 \
     vendor.display.defer_fps_frame_count=2
 
 PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
